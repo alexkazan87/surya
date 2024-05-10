@@ -1,0 +1,17 @@
+streamlit
+openai
+llama-index
+llama-index-llms-openai
+nltk
+pypdf
+transformers
+torch
+pydantic
+pydantic-settings
+python-dotenv
+pillow
+pypdfium2
+opencv-python
+tabulate
+filetype
+ftfy
