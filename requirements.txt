@@ -16,3 +16,4 @@ tabulate
 filetype
 ftfy
 flask
+cv2
