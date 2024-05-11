@@ -6,9 +6,8 @@ pydantic-settings
 python-dotenv
 pillow
 pypdfium2
+cv2
 opencv-python
 tabulate
 filetype
 ftfy
-cv2
-
